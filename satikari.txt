@@ -1,0 +1,27 @@
+https://satikariti.com/wp-admin
+Admin
+Satikariti$@2021
+
+FTP Username: satikari
+FTP server: ftp.satikariti.com
+FTP & explicit FTPS port:  21
+
+
+FTP Username: himanshu@satikariti.com
+FTP server: ftp.satikariti.com
+FTP & explicit FTPS port:  21
+Satikariti$@2021
+
+SMPT:
+mail.satikariti.com
+SMTP Port: 465
+
+TRADE NAME: GK INTERNATIONAL
+ADDRESS:  A-7,GAJANAND SOCIETY SHOPPING,NR.YOGICHOWK,PUNAGAM,SURAT.395010.
+EMAIL:GKINTERNATIONALSALES@GMAIL.COM
+CUSTOMER CARE NO:  8200579571
+
+
+http://localhost/satikariti/wp-admin/
+satikariti@321
+satikariti
